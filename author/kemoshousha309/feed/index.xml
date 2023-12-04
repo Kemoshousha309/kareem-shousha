@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Kareem-Shousha</title>
-	<atom:link href="https://kemoshousha309.github.io/kareem-shousha/feed/" rel="self" type="application/rss+xml" />
+	<title>kemoshousha309 &#8211; Kareem-Shousha</title>
+	<atom:link href="https://kemoshousha309.github.io/kareem-shousha/author/kemoshousha309/feed/" rel="self" type="application/rss+xml" />
 	<link>https://kemoshousha309.github.io/kareem-shousha/</link>
 	<description>Personal Portfolio Website</description>
 	<lastBuildDate>Fri, 01 Dec 2023 15:31:58 +0000</lastBuildDate>
